@@ -21,21 +21,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular dynamics simulations
+- Data-driven modeling
+- Ion channels
+- Protein-ligand interactions
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biophysics and Quantitative Biology
+    institution: University of Illinois at Urbana-Champaign, Illinois, USA
+    year: 2021
+  - course: BTech in Chemical Science and Technology
+    institution: Indian Institute of Technology Guwahati, Assam, India
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
