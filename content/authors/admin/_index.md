@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: KTH Royal Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
