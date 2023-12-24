@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Marie Curie Postdoctoral Fellow 
 
 # Organizations/Affiliations
 organizations:
