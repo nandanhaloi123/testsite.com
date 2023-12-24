@@ -24,7 +24,7 @@ interests:
 - Molecular dynamics simulations
 - Experimental data-driven modeling
 - Ion channels
-- Ligand-Protein interactions
+- Ligand-protein interactions
 
 
 education:
@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nandan.haloi@scilifelab.se"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is trained as a computational biophysicist during my postdoc and PhD in the lab of Emad Tajkhorshid at UIUC, USA, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. 
+Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is trained as a computational biophysicist during postdoc and PhD in the lab of Emad Tajkhorshid at UIUC, USA, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. 
 He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
