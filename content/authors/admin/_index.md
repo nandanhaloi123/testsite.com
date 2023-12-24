@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is trained as a computational biophysicist during my postdoc and PhD in the lab of Emad Tajkhorshid at UIUC, USA, with the focus on method development and applications in membrane proteins using molecular dynamics (MD) simulations and machine learning (ML) and combining computational findings with experimental data. 
+Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is trained as a computational biophysicist during my postdoc and PhD in the lab of Emad Tajkhorshid at UIUC, USA, with the focus on method development and applications in membrane proteins using molecular dynamics (MD) simulations and machine learning (ML) and combining computational findings with experimental data. 
 He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
