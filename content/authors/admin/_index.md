@@ -22,9 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Molecular dynamics simulations
-- Data-driven modeling
+- Experimental data-driven modeling
 - Ion channels
-- Protein-ligand interactions
+- Ligand-Protein interactions
 
 
 education:
