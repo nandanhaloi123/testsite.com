@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biophysics and Quantitative Biology (PI: Emad Tajkhorshid)
+  - course: PhD in Biophysics and Quantitative Biology (PI- Emad Tajkhorshid)
     institution: University of Illinois at Urbana-Champaign, Illinois, USA
     year: 2021
   - course: BTech in Chemical Science and Technology
