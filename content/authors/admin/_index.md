@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biophysics and Quantitative Biology
+  - course: PhD in Biophysics and Quantitative Biology (PI: Emad Tajkhorshid)
     institution: University of Illinois at Urbana-Champaign, Illinois, USA
     year: 2021
   - course: BTech in Chemical Science and Technology
@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is trained as a computational biophysicist during postdoc and PhD in the lab of Emad Tajkhorshid at UIUC, USA, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. 
+Nandan Haloi is a Marie Skłodowska-Curie Actions postdoc fellow in the lab of Erik Lindahl at KTH, Stockholm. He is as a computational biophysicist, with the focus on method development and applications in membrane proteins using molecular dynamics simulations and machine learning and combining computational findings with experimental data. 
 He strives to understand how biomolecules interact at the atomic level and how these interactions lead to different functional characteristics that define life. 
